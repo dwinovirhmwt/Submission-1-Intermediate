@@ -1,0 +1,60 @@
+<resources>
+    // App
+    <string name="app_name">Story Hub</string>
+    <string name="token">Token</string>
+
+    // Splash
+    <string name="logo_github">Logo</string>
+    <string name="by_dnr">by dwinovirhmwt</string>
+
+    // Login
+    <string name="logo_login">Logo Login</string>
+    <string name="title_login_page">Welcome to Story Hub</string>
+    <string name="message_login_page">Log in now to continue</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Log In</string>
+    <string name="no_have_account">Don\'t have an account?</string>
+    <string name="register">Register</string>
+
+    // Register
+    <string name="title_register_page">Create A New Account</string>
+    <string name="name">Name</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="enter_password">Enter your password</string>
+    <string name="create_account">Create Account</string>
+    <string name="have_account">Have an account?</string>
+    <string name="invalid_email">Email address is not valid!</string>
+    <string name="password_too_short">Password must not be less than 8 characters</string>
+
+    // Detail Page
+    <string name="detail_story">Detail Story</string>
+    <string name="title_detail">Title Detail</string>
+    <string name="description_detail">Description Detail</string>
+
+    // Main Page
+    <string name="image_story">Image Story</string>
+    <string name="create">Create Postingan</string>
+
+    // Upload Page
+    <string name="upload_Story">Upload Story</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="description">Enter a description</string>
+    <string name="upload">Upload</string>
+    <string name="permission_granted">Request for permission granted</string>
+    <string name="permission_denied">Request for permission denied</string>
+    <string name="error_field_required">This Field is Required</string>
+    <string name="failed_upload_image">Failed upload image</string>
+    <string name="no_media_selected">No media selected</string>
+
+    // Camera Page
+    <string name="camera_failed">Camera failed to load!</string>
+    <string name="image_failed">Image Failed to captured!</string>
+
+    // Menu
+    <string name="language">Languages</string>
+    <string name="logout">Logout</string>
+
+</resources>

@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.StoryHub" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+        <item name="colorPrimary">@color/grey</item>
+        <item name="colorSecondary">@color/white</item>
+
+        <!-- Add toolbar style -->
+        <item name="toolbarStyle">@style/Toolbar.StoryHub</item>
+    </style>
+
+    <!-- Toolbar style -->
+    <style name="Toolbar.StoryHub" parent="Widget.Material3.Toolbar">
+        <item name="background">@color/grey</item> <!-- Toolbar background color -->
+        <item name="titleTextColor">@color/white</item> <!-- Toolbar title text color -->
+        <item name="subtitleTextColor">@color/white</item> <!-- Toolbar subtitle text color -->
+        <!-- Customize other toolbar attributes as needed -->
+    </style>
+
+    <style name="Theme.StoryHub" parent="Base.Theme.StoryHub" />
+</resources>
